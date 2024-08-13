@@ -55,14 +55,14 @@ if ( !defined('WP_CLI') ) {
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '46CcvyJUfapFrIc4u450T8Yn7oOxXgjCklM6ys7dwRism4yUtcBxXQziRNc2WUxZ' );
-define( 'SECURE_AUTH_KEY',  'pNDAuW1On8t18JpbQXCXwqOWI0yGEoGdgJosUNugIA1O941vYyJPOaiyRe0qBqud' );
-define( 'LOGGED_IN_KEY',    '6xxgk4BzGhJLXaffjjQboot0tGU9jNFnjodsilDUMm7SPw2LMTuXlgx3RKgWSDX0' );
-define( 'NONCE_KEY',        '98GgrwmncjyxKdWRmviaEWwRx7FuoEXPTOrC94LhIz8fQdtMO4wnsvX67Nantflp' );
-define( 'AUTH_SALT',        'u1fZxsxifUjgfrYITLhQnes8iTeC2wVxB6HXV0ORGllj2yHZfI3yGmgHN0gIV7AX' );
-define( 'SECURE_AUTH_SALT', 'aceoDR0jQ5ZXrRkNX7NdyfgVH4CxaqyvrdZrGENEFHL7nxFo3S3t3RsQWPyXfaGM' );
-define( 'LOGGED_IN_SALT',   '1xVaIuZnHwDDuoR1fs5rtD32XTTmAlx6kLjwoQJ3FPOKOm2pwhhLXa6KjGW0ZRJK' );
-define( 'NONCE_SALT',       'Ztn32E4M7eGdJZ6noQqHrqT1H36yMNu76d9ErFtaBkMY1wJbHK2ffG974QB1d3kK' );
+define( 'AUTH_KEY',         'osjlIAUnohwr1YDomwE6pqr1yEjj48YmGD7E0SC2vDOdUlPkoWgJjdTuXgDk8YoB' );
+define( 'SECURE_AUTH_KEY',  'ZH28rsYzC71yMWGr1WQJbV4LBjfUfG9EpzS2b00n2FcbqXPuijsuNmvUu4JggNxx' );
+define( 'LOGGED_IN_KEY',    'rBnCAKEVCjVhs2NYPJOTmVk7Yr4cDsC2tAQlDEVgwgvRgwjarh4mC4mT49m3FJ9X' );
+define( 'NONCE_KEY',        '5FrsIhxkTNNZYc6DUyyUgjxIbfMmier3C1Pe5QEJ3EpobTcshvTAZzEEPm6MvhFw' );
+define( 'AUTH_SALT',        'SHyIfGuZud2h9HL3HPB04VgsoSa2Gdhoem3dSGxWzcqmCRksJPCGQf5x6cwfs0wR' );
+define( 'SECURE_AUTH_SALT', 'QTnkLkFImVex9hCzJ8qeAUXurbtykernU9fMEdnK8v5b8EQ5ToA9gKWczb4FQEil' );
+define( 'LOGGED_IN_SALT',   'YeUihc4uuVoMZYDd2s2aPgANkaGZefWZEkuVpscaGCiQIgJgJdOYe4gChkG3FL1X' );
+define( 'NONCE_SALT',       'lcaPYfbW30HM1pxQV334gBUXxf85LTNoGpmckcyxfAH7E1Dq5PdCug5TWWhKYEOB' );
 
 /**#@-*/
 
